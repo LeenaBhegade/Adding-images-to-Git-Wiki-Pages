@@ -7,8 +7,7 @@ git clone https://github.com/username/repository.wiki.git
 
 This will clone the wiki on your local machine
 
-2) Create a folder called images in wiki repository folder on your local machine
-   Copy the required images to this "images" folder
+2) Create a folder called images in the wiki repository folder on your local machine.Copy the required images to this "images" folder
    
 3) This is the last step where we need to push the changes to the wiki on Github.Follow below steps on the command line:
 
