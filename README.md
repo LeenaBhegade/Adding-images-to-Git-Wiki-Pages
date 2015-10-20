@@ -1,17 +1,19 @@
 # Adding-images-to-Git-Wiki-Pages
-Steps by Step Procedure for adding images to Git Wiki Pages
+Step by Step Procedure for adding images to Git Wiki Pages
 
-1) Copy the git wiki path and clone it as below on the command line
+1) Copy your git project wiki path and clone it as below on the command line
 
 git clone https://github.com/Username/Repository.wiki.git
 
-This will clone the wiki in your local machine
+This will clone the wiki on your local machine
 
 2) Create a folder called images in wiki repository folder on your local machine
    Copy the required images to this "images" folder
    
-3) This is the last step where we need to push the changes we made back to the Github.Follow below steps
-   
+3) This is the last step where we need to push the changes to the wiki on Github.Follow below steps on the command line:
+
+go to the wiki project folder using "cd wikifoldername" and type below commands
+
 step1: git add --all
 
 step2: git commit -m "Commit"
