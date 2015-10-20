@@ -25,7 +25,9 @@ After these steps are executed a message of sucessful execution will be displaye
 
 5) Go to the wiki page , edit it and add below statement where the image needs adding:
  
- {![ImageName](images/imagename.jpg)} 
+ ![ ImageName ] (images/imagename.jpg)
+ 
+ (note:donot keep the spaces before and after "ImageName".I have done it because It was getting converted to image)
  
 6) After saving the page you can now see the expected image :-)
  
