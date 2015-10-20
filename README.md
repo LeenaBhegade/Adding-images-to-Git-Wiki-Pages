@@ -13,19 +13,18 @@ This will clone the wiki in your local machine
    
 3) This is the last step where we need to push the changes we made back to the Github.Follow below steps
    
-git add --all
+step1: git add --all
 
-git commit -m "Commit"
+step2: git commit -m "Commit"
 
-git push -u origin master
+step3: git push -u origin master
 
-After these steps are executed a message of sucessful execution can be seen.
+After these steps are executed a message of sucessful execution will be displayed.
 
-4) After successful execution of the above steps, a folder called "images" will be added to the wiki but it will not be visible.
-   But the images which were added before will can now be referenced.
+4) After successful execution of the above steps, a folder called "images" will be added to the wiki but it will not be visible on github.But the images which were added before will can now be referenced.
 
 5) Go to the wiki page , edit it and add below statement where the image needs adding
- ![ImageName](images/imagename.jpg)
+[ ![ImageName](images/imagename.jpg)  ]
  
 6) After saving the page you can now see the expected image :-)
  
