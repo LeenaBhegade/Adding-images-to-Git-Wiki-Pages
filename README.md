@@ -20,7 +20,7 @@ step3: git push -u origin master
 
 After these steps are executed a message of sucessful execution will be displayed.
 
-4) After successful execution of the above steps, a folder called "images" will be added to the wiki but it will not be visible on github.But the images which were added before will can now be referenced.
+4) After successful execution of the above steps, a folder called "images" will be added to the wiki but it will not be visible on github.But the images which were added before can now be referenced.
 
 5) Go to the wiki page , edit it and  add below statement where the image needs adding:
  
