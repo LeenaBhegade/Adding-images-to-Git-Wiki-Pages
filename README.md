@@ -23,7 +23,7 @@ After these steps are executed a message of sucessful execution will be displaye
 
 4) After successful execution of the above steps, a folder called "images" will be added to the wiki but it will not be visible on github.But the images which were added before will can now be referenced.
 
-5) Go to the wiki page , edit it and add below statement where the image needs adding:
+5) Go to the wiki page , edit it and add ![ImageName](images/imagename.jpg) below statement where the image needs adding:
  
  !{ImageName}(images/imagename.jpg)
  
