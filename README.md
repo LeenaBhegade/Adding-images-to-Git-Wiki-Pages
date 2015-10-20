@@ -13,9 +13,11 @@ This will clone the wiki in your local machine
    
 3) This is the last step where we need to push the changes we made back to the Github.Follow below steps
    
-*git add --all
-*git commit -m "Commit"
-*git push -u origin master
+git add --all
+
+git commit -m "Commit"
+
+git push -u origin master
 
 After these steps are executed a message of sucessful execution can be seen.
 
